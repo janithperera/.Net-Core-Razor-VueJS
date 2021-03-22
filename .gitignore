@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+/Empite-Dot-Net/.vs/Empite-Dot-Net
+/Empite-Dot-Net/Empite-Dot-Net.App/bin/Debug/net5.0
+/Empite-Dot-Net/Empite-Dot-Net.App/obj
+/Empite-Dot-Net/Empite-Dot-Net.Data/bin/Debug/net5.0
+/Empite-Dot-Net/Empite-Dot-Net.Data/obj
+/Empite-Dot-Net/Empite-Dot-Net.Services/bin/Debug
+/Empite-Dot-Net/Empite-Dot-Net.Services/obj
+/Empite-Dot-Net/Empite-Dot-Net.Web/bin/Debug/net5.0
+/Empite-Dot-Net/Empite-Dot-Net.Web/obj
+/Empite-Dot-Net/WebApplication1/obj
